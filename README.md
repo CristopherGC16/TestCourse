@@ -1,2 +1,1 @@
-# TestCourse
-Prueba de Repositorio en la Nube
+Prueba de como clonar un repositorio.
